@@ -1,0 +1,32 @@
+.heart{
+    background-color: rgb(248, 244, 244);
+    width:230px;
+    height:220px;
+    margin:30px;
+    text-align: center;
+    padding: 60px 10px 30px 10px;
+     
+}
+  
+h1 {
+    font-size: 16px;
+    font-weight: bold;
+}
+  
+.icn {
+  font-size: 40px;
+  margin-top: 500px;
+}
+  
+.first{
+    font-size: 20px;
+    font-weight: bold;
+}
+  
+.second{
+    font-size: 10px;
+}
+  
+.third{
+    font-size: 15px;
+}
